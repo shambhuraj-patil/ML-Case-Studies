@@ -5,7 +5,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.preprocessing import StandardScaler
 
 def HeadBrain():
-    dataset = pd.read_csv("HeadBrain .csv")
+    dataset = pd.read_csv("HeadBrain.csv")
     print("Size of Dataset",dataset.shape)
 
     X = dataset["Head Size(cm^3)"].values
