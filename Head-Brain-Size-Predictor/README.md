@@ -10,13 +10,15 @@ The goal is to understand the relationship between head size (in cm³) and brain
 - Matplotlib 📈
 - scikit-learn 🤖
 
+---
+
 ## 📁 Project Structure
-```bash
 HeadBrain-Predictor/
 ├── HeadBrain.csv              # Dataset
 ├── HeadBrainSizePredictor.py  # Main script
 └── README.md                  # Project documentation
-```
+
+---
 
 ### 📦 Dataset (HeadBrain.csv)
 
@@ -29,12 +31,16 @@ The dataset contains the following columns:
 | Head Size (cm³)      | Volume of the head in cubic cm   |
 | Brain Weight (grams) | Weight of the brain in grams     |
 
+---
+
 #### 📌 Example Rows
 
 | Gender | Age Range | Head Size (cm³) | Brain Weight (grams) |
 |--------|-----------|------------------|------------------|
 | Male   | 20-30     | 4512             | 1530             |
 | Female | 30-40     | 3738             | 1290             |
+
+---
 
 ### 🚀 How to Run
 #### ✅ Prerequisites
@@ -49,6 +55,7 @@ pip install pandas matplotlib scikit-learn
 ```bash
 python HeadBrainSizePredictor.py
 ```
+---
 
 ### 📤 Sample Output
 
@@ -62,10 +69,14 @@ A plot window will appear showing:
 - 📉 Orange dots – Actual data points
 - 📈 Green line – Linear regression prediction line
 
+---
+
 ### 📌 Notes
 The R² score indicates how well the model fits the data (closer to 1 is better).
 
 You can experiment with new data by adding values to HeadBrain.csv.
+
+---
 
 ### 🙌 Acknowledgements
 Dataset adapted from publicly available statistical resources.
