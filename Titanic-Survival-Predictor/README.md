@@ -86,6 +86,7 @@ python TitanicPredictor.py
 ---
 
 📤 Sample Output
+```bah
 Titanic Survival Predictor
 First 5 rows of the dataset:
 ...
@@ -102,6 +103,7 @@ Classification report:
               precision    recall  f1-score   support
          0       0.82      0.85      0.84       149
          1       0.80      0.76      0.78       119
+```
 
 --- 
 
