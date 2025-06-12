@@ -1,10 +1,10 @@
 # 🧠 Head-Brain Size Predictor
 This project demonstrates a simple Linear Regression model using scikit-learn to predict brain weight based on head size. It uses a dataset of human head sizes and corresponding brain weights to train the model.
 
-📊 Problem Statement
+## 📊 Problem Statement
 The goal is to understand the relationship between head size (in cm³) and brain weight (in grams) and use a linear regression model to predict brain weight from head size.
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 - Python 🐍
 - Pandas 📊
 - Matplotlib 📈
