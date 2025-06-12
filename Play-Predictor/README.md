@@ -2,21 +2,29 @@
 
 This project demonstrates a simple machine learning classification model using the K-Nearest Neighbors (KNN) algorithm. It predicts whether a game will be played based on weather conditions and temperature.
 
+---
+
 ## 📂 Project Structure
 ML-Case-Studies/
 └── Play-Predictor/
 ├── PlayPredictor.py
 └── PlayPredictor.csv
 
+---
+
 ## 🧠 Algorithm Used
 - K-Nearest Neighbors (KNN) from `sklearn.neighbors`  
 - Label Encoding for categorical data
+
+---
 
 ## 📌 Dataset (PlayPredictor.csv)
 The dataset contains the following columns:
 - `Weather`: Categorical (e.g., Sunny, Rainy, Overcast)  
 - `Temperature`: Categorical (e.g., Hot, Mild, Cool)  
 - `Play`: Target variable (Yes/No)
+
+---
 
 ### Sample:
 
