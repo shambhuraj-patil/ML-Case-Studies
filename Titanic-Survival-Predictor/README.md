@@ -22,7 +22,6 @@ This project explores patterns in the data and builds a classification model to 
 
 ## 📁 Project Structure
 
-```bash
 Titanic-Survival-Predictor/
 ├── TitanicPredictor.py         # Main script
 ├── Titanic-Dataset.csv         # Dataset file
@@ -89,9 +88,8 @@ python TitanicPredictor.py
 ```bah
 Titanic Survival Predictor
 First 5 rows of the dataset:
-...
+
 Survived and Non-survived passengers
-...
 
 Accuracy using Logistic Regression: 79.10%
 
