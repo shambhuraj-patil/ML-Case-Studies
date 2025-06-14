@@ -49,11 +49,11 @@ pip install numpy pandas scikit-learn matplotlib
 ## 🚀 How to Run
 ▶️ Decision Tree
 ```bash
-python iris_decision_tree.py
+python IrisDecisionTree.py
 ```
 ▶️ KNN
 ```bash
-python iris_knn.py
+python IrisKNN.py
 ```
 
 Each script will:
