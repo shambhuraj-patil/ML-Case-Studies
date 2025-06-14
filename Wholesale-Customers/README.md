@@ -64,6 +64,7 @@ The script will:
 
 ## 📝 Results
 ✨ The output includes:
+
     - WCSS (Elbow Method) plot to suggest optimal k
     - Silhouette Score plot
     - Final cluster visualization in 2D PCA space
