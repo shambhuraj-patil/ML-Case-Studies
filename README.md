@@ -79,13 +79,27 @@ cd ML-Case-Studies
 2️⃣ Navigate to the desired case study folder.
 
 ```bash
+cd <desired case study folder>
+```
+
+👉 Replace <desired-case-study-folder> with the name of the case study folder you want to explore.
+Example:
+
+```bash
 cd Head-Brain-Size-Predictor
 ```
 
-3️⃣ Run the Python script or open the notebook (if provided):
+3️⃣ Run the Python script or open the notebook:
 
 ```bash
-python filename.py
+python <filename>.py
+```
+
+👉 Replace <filename>.py> with the actual Python file in that folder.
+Example:
+
+```bash
+python HeadBrainSizePredictor.py
 ```
 
 ---
